@@ -62,7 +62,7 @@
         <br />
         <li>
           <b>😄 Pronouns</b><br />
-          He/Him
+          Wajid 
         </li>
         <br />
         <li>
