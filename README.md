@@ -161,7 +161,7 @@
 | 🧠 **AI Foundations Associate** | Oracle Cloud Infrastructure | 2025 |
 | 💻 **Solutions Architecture Job Simulation** | Forage | 2025 |
 | 🏆 **Prime Minister’s Laptop Award** | Govt. of Pakistan (Merit) | 2025 |
-| � **Digital Marketing Specialist** | Google Garage | 2024 |
+| � **Digital Marketing** | Digiskills | 2024 |
 
 ---
 
