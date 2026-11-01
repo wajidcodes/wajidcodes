@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Wajid%20Ali&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20AI%20Automation&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" alt="Wajid Ali banner" />
+
 <h1 align="center">Wajid Ali</h1>
 <p align="center"><b>AI &amp; Machine Learning Developer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; AI Automation &nbsp;|&nbsp; Python &amp; Java</b></p>
 <p align="center">NUML BS Computer Science, Faisalabad — Expected 2028, CGPA 3.85 / 4.00</p>
@@ -19,6 +21,10 @@
 ---
 
 ## About Me
+
+<div align="center">
+<img src="https://wajidali-portfolio.vercel.app/wajid-ali.jpg" width="180" alt="Wajid Ali" />
+</div>
 
 ```python
 wajid = {
@@ -49,7 +55,7 @@ Click any image to open the repository.
 
 ### NeuroScan AI — Brain Tumor Segmentation
 
-[![NeuroScan AI cover](https://wajidali-portfolio.vercel.app/portfolio/lg/neuroscan-ai-cover.jpg)](https://github.com/Stochastic-Research-Labs/NeuroScan-AI)
+[![NeuroScan AI cover](https://images.weserv.nl/?url=wajidali-portfolio.vercel.app%2Fportfolio%2Flg%2Fneuroscan-ai-cover.jpg&w=1200&h=480&fit=cover)](https://github.com/Stochastic-Research-Labs/NeuroScan-AI)
 
 Brain tumor segmentation on BraTS 2021 — Next.js + FastAPI app with an interactive NIfTI viewer, four MRI modalities (T1, T1CE, T2, FLAIR) and a 3D U-Net model. Supervised by Ms. Saira Ishtiaq. Research use only, not medical diagnosis.
 
@@ -59,7 +65,7 @@ Brain tumor segmentation on BraTS 2021 — Next.js + FastAPI app with an interac
 
 ### PulmoScan AI — Chest X-Ray Classification
 
-[![PulmoScan AI cover](https://wajidali-portfolio.vercel.app/portfolio/lg/chest-xray-covid-cover.jpg)](https://github.com/wajidcodes/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch)
+[![PulmoScan AI cover](https://images.weserv.nl/?url=wajidali-portfolio.vercel.app%2Fportfolio%2Flg%2Fchest-xray-covid-cover.jpg&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch)
 
 ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacity, Viral Pneumonia), 94.74% test accuracy, Grad-CAM heatmaps and a 3D lung view. For learning only, not medical diagnosis.
 
@@ -69,13 +75,13 @@ ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacit
 
 ### Education System of Pakistan — Fieldwork &amp; Research
 
-[![Education System of Pakistan cover](https://wajidali-portfolio.vercel.app/portfolio/lg/education-pakistan-cover.jpg)](https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms)
+[![Education System of Pakistan cover](https://images.weserv.nl/?url=wajidali-portfolio.vercel.app%2Fportfolio%2Flg%2Feducation-pakistan-cover.jpg&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms)
 
 Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews with professors, heads of department and students, ending in structural policy reforms grounded in community engagement and equity. Team-lead fieldwork at NUML.
 
 ### NovaFlow — Company Management System
 
-[![NovaFlow login screenshot](https://raw.githubusercontent.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-/0684e6b03875ebfd55500d5b9062963d741f1ebe/Images/novaflow_login.png)](https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-)
+[![NovaFlow login screenshot](https://images.weserv.nl/?url=raw.githubusercontent.com%2Fwajidcodes%2FNovaFlow-Company-Management-System-Python-MySQL-%2F0684e6b03875ebfd55500d5b9062963d741f1ebe%2FImages%2Fnovaflow_login.png&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-)
 
 Python ERP for employee, inventory and project management. MySQL 3NF database, secure authentication, multi-warehouse support, work logs and role-based permissions, with a dark-themed Tkinter GUI.
 
@@ -84,7 +90,7 @@ Python ERP for employee, inventory and project management. MySQL 3NF database, s
 
 ### iStore — E-Commerce Management System
 
-[![iStore Admin Dashboard screenshot](https://raw.githubusercontent.com/wajidcodes/istore-ecommerce-system/b9aacfe4f1d60035e48065001fb4397262e543ac/Project%20Images/Admin%20Dashboard.png)](https://github.com/wajidcodes/istore-ecommerce-system)
+[![iStore Admin Dashboard screenshot](https://images.weserv.nl/?url=raw.githubusercontent.com%2Fwajidcodes%2Fistore-ecommerce-system%2Fb9aacfe4f1d60035e48065001fb4397262e543ac%2FProject%2520Images%2FAdmin%2520Dashboard.png&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/istore-ecommerce-system)
 
 Java Swing + MySQL management system with dedicated interfaces for customers, suppliers and administrators, role-based access and complex database design with BLOB image storage.
 
@@ -107,6 +113,8 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12" width="100%" alt="" />
+
 ## Technical Stack
 
 <div align="center">
@@ -127,6 +135,8 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12" width="100%" alt="" />
 
 ## Academic Journey
 
@@ -156,6 +166,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidcodes&theme=tokyonight&hide_border=false" alt="GitHub streak" />
 </div>
 
+
 ---
 
 <div align="center">
@@ -166,3 +177,5 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white)](https://wajidali-portfolio.vercel.app)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="" />
