@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Wajid%20Ali&fontSize=70&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20AI%20Automation&descAlign=50&descAlignY=55&animation=fadeIn" width="100%" alt="Wajid Ali banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9800,100:FF5722&height=200&section=header&text=Wajid%20Ali&fontSize=60&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20AI%20Automation&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" alt="Wajid Ali banner" />
 
-<h1 align="center">Wajid Ali</h1>
+
 <p align="center"><b>AI &amp; Machine Learning Developer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; AI Automation &nbsp;|&nbsp; Python &amp; Java</b></p>
 <p align="center">NUML BS Computer Science, Faisalabad — Expected 2028, CGPA 3.85 / 4.00</p>
 
@@ -21,10 +21,6 @@
 ---
 
 ## About Me
-
-<div align="center">
-<img src="https://wajidali-portfolio.vercel.app/wajid-ali.jpg" width="180" alt="Wajid Ali" />
-</div>
 
 ```python
 wajid = {
@@ -90,7 +86,7 @@ Python ERP for employee, inventory and project management. MySQL 3NF database, s
 
 ### iStore — E-Commerce Management System
 
-[![iStore Admin Dashboard screenshot](https://images.weserv.nl/?url=raw.githubusercontent.com%2Fwajidcodes%2Fistore-ecommerce-system%2Fb9aacfe4f1d60035e48065001fb4397262e543ac%2FProject%2520Images%2FAdmin%2520Dashboard.png&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/istore-ecommerce-system)
+<a href="https://github.com/wajidcodes/istore-ecommerce-system"><img src="https://raw.githubusercontent.com/wajidcodes/istore-ecommerce-system/b9aacfe4f1d60035e48065001fb4397262e543ac/Project%20Images/Admin%20Dashboard.png" width="49%" alt="iStore Admin Dashboard" /></a> <a href="https://github.com/wajidcodes/istore-ecommerce-system"><img src="https://raw.githubusercontent.com/wajidcodes/istore-ecommerce-system/b9aacfe4f1d60035e48065001fb4397262e543ac/Project%20Images/Customer%20Dashboard.png" width="49%" alt="iStore Customer Dashboard" /></a>
 
 Java Swing + MySQL management system with dedicated interfaces for customers, suppliers and administrators, role-based access and complex database design with BLOB image storage.
 
@@ -113,7 +109,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9800,100:FF5722&height=12" width="100%" alt="" />
 
 ## Technical Stack
 
@@ -136,7 +132,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=12" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9800,100:FF5722&height=12" width="100%" alt="" />
 
 ## Academic Journey
 
@@ -178,4 +174,4 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9800,100:FF5722&height=100&section=footer" width="100%" alt="" />
