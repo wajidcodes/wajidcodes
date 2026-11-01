@@ -1,176 +1,147 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello,%20I'm%20Wajid%20Ali!&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20@%20NUML%20|%20Java%20&%20Python%20Developer&descAlign=50&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Wajid%20Ali&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20AI%20Automation%20%7C%20Python%20%26%20Java&descAlign=50&descAlignY=55" width="100%" alt="Wajid Ali" />
 </div>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-ali-developer)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.wajid.t.v@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wajidcodes)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9800&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+Image+Segmentation;AI+Automation+with+n8n;Python+%26+Java+Developer;NUML+BS+Computer+Science+%7C+CGPA+3.85)](https://git.io/typing-svg)
 
-  <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=wajidcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="wajidcodes" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-ali-developer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF9800?style=for-the-badge&logo=vercel&logoColor=white)](https://wajidali-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.wajid.t.v@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wajidcodes)
+[![X](https://img.shields.io/badge/X-%40abdul__wajid__ali-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdul_wajid_ali)
+
+<img src="https://komarev.com/ghpvc/?username=wajidcodes&label=Profile%20Views&color=FF9800&style=flat" alt="Profile views" />
+
 </div>
 
-<hr />
+---
+
+## About
+
+Computer Science student at NUML, Faisalabad, building practical AI systems — not just demos. My work moves from research to working software: medical image segmentation and classification, full-stack desktop systems with real databases, and automation that saves people repetitive work.
+
+> "Translating complex requirements into robust, scalable software solutions."
+
+**Currently:**
+- Pursuing an AI automation course, building workflows with n8n
+- Building AI/ML and computer vision projects in PyTorch and OpenCV
+- Open to collaboration on AI tools, computer vision projects, and developer productivity tools in Python and Java
+
+**Ask me about:** Deep Learning, Computer Vision, Image Segmentation, Object-Oriented Design (Singleton, Factory, MVC), Database Design and Normalization, Python Automation
+
+---
+
+## Academic Journey
+
+| Stage | Detail |
+|---|---|
+| **BS Computer Science** | National University of Modern Languages (NUML), Faisalabad — Expected 2028, CGPA **3.85 / 4.00** |
+| **Research** | Brain tumor segmentation (NeuroScan AI), supervised by Ms. Saira Ishtiaq, using the BraTS 2021 dataset |
+| **Fieldwork, Team Lead** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
+| **Certification** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate, 2025 |
+| **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
+| **Certification** | Digital Marketing, DigiSkills, 2024 |
+| **Honour** | Prime Minister's Laptop Scheme Award, Government of Pakistan, 2025 — awarded for top academic merit |
+| **Competition** | International Computer Science Competition (ICSC) — Participant, global CS problem-solving |
+
+---
+
+## Technical Stack
 
 <div align="center">
-  <h2>🚀 Passionate Software Engineer & Tech Innovator</h2>
-  <p><i>"Translating complex business requirements into robust, scalable software solutions."</i></p>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,java,c,cpp,mysql,git,github,vscode" width="100%" alt="Python, PyTorch, Java, C, C++, MySQL, Git, GitHub, VS Code" />
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![n8n](https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+
+**Core:** Deep Learning, Computer Vision, Image Segmentation, Relational Databases, Object-Oriented Programming
+**Languages:** Python, Java, C, C++, SQL
+**Tools:** PyTorch, OpenCV, MySQL Workbench, Git, GitHub, VS Code
+
 </div>
+
+---
+
+## Featured Projects
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>👨‍💻 What I'm Up To</h3>
-      <ul>
-        <li>
-          <b>🔭 I’m currently working on Advanced E-Commerce Architecture</b><br />
-          Developing a comprehensive, multi-tiered Desktop E-Commerce Management System using Java Swing and MySQL compared to enterprise standards. Focusing on modular design, secure authentication patterns, and efficient database normalization alongside my co-developer.
-        </li>
-        <br />
-        <li>
-          <b>🌱 I’m currently learning AI & Cloud Integration</b><br />
-          Deep diving into the intersection of Artificial Intelligence and Cloud Infrastructure. Recently certified in <b>Oracle Cloud Infrastructure</b> (AI Foundations 2025) and actively exploring how LLMs can be integrated into legacy Java applications for predictive analytics.
-        </li>
-        <br />
-        <li>
-          <b>👯 I’m looking to collaborate on Open Source Tools</b><br />
-          Interested in building developer productivity tools, specifically libraries or plugins for Java and Python that simplify database interactions or GUI prototyping.
-        </li>
-        <br />
-        <li>
-          <b>🤔 I’m looking for help with Microservices Design</b><br />
-          Seeking mentorship or resources on migrating monolithic Swing applications to distributed microservices architectures using Spring Boot.
-        </li>
-      </ul>
+    <td width="50%">
+      <a href="https://github.com/Stochastic-Research-Labs/NeuroScan-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stochastic-Research-Labs&repo=NeuroScan-AI&theme=tokyonight" alt="NeuroScan AI" />
+      </a>
+      <p><b>Brain tumor segmentation</b> on BraTS 2021 — Next.js + FastAPI app with an interactive NIfTI viewer, four MRI modalities (T1, T1CE, T2, FLAIR) and a 3D U-Net model. Research use only, not medical diagnosis.</p>
     </td>
-    <td width="40%" valign="top">
-      <h3>⚡ Quick Bytes</h3>
-      <ul>
-        <li>
-          <b>💬 Ask me about</b><br />
-          Java Swing, Object-Oriented Design Patterns (Singleton, Factory, MVC), Database Optimization, and Python Automation scripts.
-        </li>
-        <br />
-        <li>
-          <b>📫 How to reach me</b><br />
-          The best way is via email or LinkedIn DM!<br />
-          💌 <b>m.wajid.t.v@gmail.com</b>
-        </li>
-        <br />
-        <li>
-          <b>😄 Pronouns</b><br />
-          Wajid 
-        </li>
-        <br />
-        <li>
-          <b>⚡ Fun fact</b><br />
-          I was selected for the prestigious <b>Prime Minister’s Youth Laptop Scheme</b> purely on academic merit—which basically powered the coding journey you see today! 💻
-        </li>
-      </ul>
+    <td width="50%">
+      <a href="https://github.com/wajidcodes/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch&theme=tokyonight" alt="PulmoScan AI" />
+      </a>
+      <p><b>PulmoScan AI</b> — ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacity, Viral Pneumonia), 94.74% test accuracy, Grad-CAM heatmaps and a 3D lung view. For learning only, not medical diagnosis.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=NovaFlow-Company-Management-System-Python-MySQL-&theme=tokyonight" alt="NovaFlow" />
+      </a>
+      <p><b>NovaFlow</b> — Python ERP for employee, inventory and project management. MySQL 3NF database, secure authentication, multi-warehouse support, work logs and role-based permissions, with a dark-themed Tkinter GUI.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/wajidcodes/istore-ecommerce-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=istore-ecommerce-system&theme=tokyonight" alt="iStore" />
+      </a>
+      <p><b>iStore E-Commerce System</b> — Java Swing + MySQL management system with dedicated interfaces for customers, suppliers and administrators, role-based access and complex database design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/wajidcodes/restaurant-management-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=restaurant-management-system&theme=tokyonight" alt="Restaurant Management System" />
+      </a>
+      <p><b>Restaurant Management System</b> — JavaFX 21 desktop app with role-based POS, real-time order synchronization, inventory management and an analytics dashboard, using SQLite and MVC architecture.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms&theme=tokyonight" alt="Education System of Pakistan" />
+      </a>
+      <p><b>Education System of Pakistan</b> — Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews, ending in structural policy reforms.</p>
     </td>
   </tr>
 </table>
 
+**Also:** [GenAI Chatbot Development Course](https://github.com/wajidcodes/GenAI-Chatbot-Development-Course) — learning journey and practical work from the GenAI and Chatbot Development Course.
+
+**Live portfolio:** [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app) — AI/ML, Computer Vision, AI Automation and Python Development services, with project showcases.
+
 ---
 
-## 🛠️ The Technical Arsenal
+## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-        <br>IntelliJ
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=wajidcodes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Wajid's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidcodes&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidcodes&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+
 </div>
 
 ---
 
-## 🏆 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 IStore E-Commerce System</h3>
-      <p align="center"><i>A Comprehensive Multi-User Management Suite</i></p>
-      <p>A flagship desktop application engineered to simulate a full-scale retail environment. </p>
-      <ul>
-        <li><b>Architecture</b>: Robust 3-tier user system (Admin, Supplier, Customer).</li>
-        <li><b>Security</b>: Role-based access control and manual session handling.</li>
-        <li><b>Data</b>: Complex MySQL schema with BLOB image storage and dynamic referencing.</li>
-        <li><b>UI/UX</b>: Custom Java Swing components with responsive layouts.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/wajidcodes/istore-ecommerce-system">
-          <img src="https://img.shields.io/badge/View_Project-Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏢 Company Management System</h3>
-      <p align="center"><i>Streamlining Corporate Workflows</i></p>
-      <p>An integrated solution for managing employee lifecycles and departmental resources.</p>
-      <ul>
-        <li><b>Core</b>: Automated attendance tracking and payroll calculation.</li>
-        <li><b>Tech</b>: Python Tkinter for rapid GUI development.</li>
-        <li><b>Impact</b>: improved record retrieval speed by 40% in simulated tests.</li>
-      </ul>
-      <br />
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📜 Certifications & Achievements
-
-| Award / Certification | Issuer | Year |
-|-----------------------|--------|------|
-| 🧠 **AI Foundations Associate** | Oracle Cloud Infrastructure | 2025 |
-| 💻 **Solutions Architecture Job Simulation** | Forage | 2025 |
-| 🏆 **Prime Minister’s Laptop Award** | Govt. of Pakistan (Merit) | 2025 |
-| � **Digital Marketing** | Digiskills | 2024 |
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlign=50&animation=fadeIn" width="100%"/>
-  
-  <br />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlign=50&animation=fadeIn" width="100%" alt="Thanks for visiting" />
+
   <a href="https://www.linkedin.com/in/wajid-ali-developer">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Chat-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Chat-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://wajidali-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/View_My_Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
