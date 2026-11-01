@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Wajid%20Ali&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20AI%20Automation%20%7C%20Python%20%26%20Java&descAlign=50&descAlignY=55" width="100%" alt="Wajid Ali" />
-</div>
+<h1 align="center">Wajid Ali</h1>
+<p align="center"><b>AI &amp; Machine Learning Developer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; AI Automation &nbsp;|&nbsp; Python &amp; Java</b></p>
+<p align="center">NUML BS Computer Science, Faisalabad — Expected 2028, CGPA 3.85 / 4.00</p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9800&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+Image+Segmentation;AI+Automation+with+n8n;Python+%26+Java+Developer;NUML+BS+Computer+Science+%7C+CGPA+3.85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF9800&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Vision+%26+Image+Segmentation;AI+Automation+with+n8n;Python+%26+Java+Developer;Building+practical+AI%2C+not+just+demos)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajid-ali-developer)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF9800?style=for-the-badge&logo=vercel&logoColor=white)](https://wajidali-portfolio.vercel.app)
@@ -18,33 +18,92 @@
 
 ---
 
-## About
+## About Me
 
-Computer Science student at NUML, Faisalabad, building practical AI systems — not just demos. My work moves from research to working software: medical image segmentation and classification, full-stack desktop systems with real databases, and automation that saves people repetitive work.
+```python
+wajid = {
+    "role": "AI / ML Developer",
+    "university": "NUML, Faisalabad",
+    "degree": "BS Computer Science, Expected 2028",
+    "cgpa": "3.85 / 4.00",
+    "focus": ["Computer Vision", "Image Segmentation", "AI Automation"],
+    "languages": ["Python", "Java", "C", "C++", "SQL"],
+    "currently_learning": "AI automation with n8n",
+    "open_to": "AI tools, computer vision projects, and developer tools",
+}
+```
+
+Computer Science student building practical AI systems — from research to working software: medical image segmentation and classification, full-stack desktop systems with real databases, and automation that saves people repetitive work.
 
 > "Translating complex requirements into robust, scalable software solutions."
 
-**Currently:**
-- Pursuing an AI automation course, building workflows with n8n
-- Building AI/ML and computer vision projects in PyTorch and OpenCV
-- Open to collaboration on AI tools, computer vision projects, and developer productivity tools in Python and Java
+**Currently:** Pursuing an AI automation course with n8n, building AI/ML and computer vision projects in PyTorch and OpenCV, and open to collaboration on AI tools and computer vision projects.
 
 **Ask me about:** Deep Learning, Computer Vision, Image Segmentation, Object-Oriented Design (Singleton, Factory, MVC), Database Design and Normalization, Python Automation
 
 ---
 
-## Academic Journey
+## Project Gallery
 
-| Stage | Detail |
-|---|---|
-| **BS Computer Science** | National University of Modern Languages (NUML), Faisalabad — Expected 2028, CGPA **3.85 / 4.00** |
-| **Research** | Brain tumor segmentation (NeuroScan AI), supervised by Ms. Saira Ishtiaq, using the BraTS 2021 dataset |
-| **Fieldwork, Team Lead** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
-| **Certification** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate, 2025 |
-| **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
-| **Certification** | Digital Marketing, DigiSkills, 2024 |
-| **Honour** | Prime Minister's Laptop Scheme Award, Government of Pakistan, 2025 — awarded for top academic merit |
-| **Competition** | International Computer Science Competition (ICSC) — Participant, global CS problem-solving |
+Click any image to open the repository.
+
+### NeuroScan AI — Brain Tumor Segmentation
+
+[![NeuroScan AI cover](https://wajidali-portfolio.vercel.app/portfolio/lg/neuroscan-ai-cover.jpg)](https://github.com/Stochastic-Research-Labs/NeuroScan-AI)
+
+Brain tumor segmentation on BraTS 2021 — Next.js + FastAPI app with an interactive NIfTI viewer, four MRI modalities (T1, T1CE, T2, FLAIR) and a 3D U-Net model. Supervised by Ms. Saira Ishtiaq. Research use only, not medical diagnosis.
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+### PulmoScan AI — Chest X-Ray Classification
+
+[![PulmoScan AI cover](https://wajidali-portfolio.vercel.app/portfolio/lg/chest-xray-covid-cover.jpg)](https://github.com/wajidcodes/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch)
+
+ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacity, Viral Pneumonia), 94.74% test accuracy, Grad-CAM heatmaps and a 3D lung view. For learning only, not medical diagnosis.
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+
+### Education System of Pakistan — Fieldwork &amp; Research
+
+[![Education System of Pakistan cover](https://wajidali-portfolio.vercel.app/portfolio/lg/education-pakistan-cover.jpg)](https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms)
+
+Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews with professors, heads of department and students, ending in structural policy reforms grounded in community engagement and equity. Team-lead fieldwork at NUML.
+
+### NovaFlow — Company Management System
+
+[![NovaFlow login screenshot](https://raw.githubusercontent.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-/0684e6b03875ebfd55500d5b9062963d741f1ebe/Images/novaflow_login.png)](https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-)
+
+Python ERP for employee, inventory and project management. MySQL 3NF database, secure authentication, multi-warehouse support, work logs and role-based permissions, with a dark-themed Tkinter GUI.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### iStore — E-Commerce Management System
+
+[![iStore Admin Dashboard screenshot](https://raw.githubusercontent.com/wajidcodes/istore-ecommerce-system/b9aacfe4f1d60035e48065001fb4397262e543ac/Project%20Images/Admin%20Dashboard.png)](https://github.com/wajidcodes/istore-ecommerce-system)
+
+Java Swing + MySQL management system with dedicated interfaces for customers, suppliers and administrators, role-based access and complex database design with BLOB image storage.
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### Restaurant Management System
+
+JavaFX 21 desktop application with role-based POS, real-time order synchronization, inventory management and an analytics dashboard, using SQLite, MVC architecture and a modern glassmorphism UI.
+
+[View repository](https://github.com/wajidcodes/restaurant-management-system)
+
+### GenAI Chatbot Development Course
+
+Learning journey and practical work from the GenAI and Chatbot Development Course.
+
+[View repository](https://github.com/wajidcodes/GenAI-Chatbot-Development-Course)
+
+**Live portfolio:** [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app)
 
 ---
 
@@ -69,79 +128,41 @@ Computer Science student at NUML, Faisalabad, building practical AI systems — 
 
 ---
 
-## Featured Projects
+## Academic Journey
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Stochastic-Research-Labs/NeuroScan-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Stochastic-Research-Labs&repo=NeuroScan-AI&theme=tokyonight" alt="NeuroScan AI" />
-      </a>
-      <p><b>Brain tumor segmentation</b> on BraTS 2021 — Next.js + FastAPI app with an interactive NIfTI viewer, four MRI modalities (T1, T1CE, T2, FLAIR) and a 3D U-Net model. Research use only, not medical diagnosis.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/wajidcodes/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch&theme=tokyonight" alt="PulmoScan AI" />
-      </a>
-      <p><b>PulmoScan AI</b> — ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacity, Viral Pneumonia), 94.74% test accuracy, Grad-CAM heatmaps and a 3D lung view. For learning only, not medical diagnosis.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=NovaFlow-Company-Management-System-Python-MySQL-&theme=tokyonight" alt="NovaFlow" />
-      </a>
-      <p><b>NovaFlow</b> — Python ERP for employee, inventory and project management. MySQL 3NF database, secure authentication, multi-warehouse support, work logs and role-based permissions, with a dark-themed Tkinter GUI.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/wajidcodes/istore-ecommerce-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=istore-ecommerce-system&theme=tokyonight" alt="iStore" />
-      </a>
-      <p><b>iStore E-Commerce System</b> — Java Swing + MySQL management system with dedicated interfaces for customers, suppliers and administrators, role-based access and complex database design.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/wajidcodes/restaurant-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=restaurant-management-system&theme=tokyonight" alt="Restaurant Management System" />
-      </a>
-      <p><b>Restaurant Management System</b> — JavaFX 21 desktop app with role-based POS, real-time order synchronization, inventory management and an analytics dashboard, using SQLite and MVC architecture.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wajidcodes&repo=Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms&theme=tokyonight" alt="Education System of Pakistan" />
-      </a>
-      <p><b>Education System of Pakistan</b> — Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews, ending in structural policy reforms.</p>
-    </td>
-  </tr>
-</table>
-
-**Also:** [GenAI Chatbot Development Course](https://github.com/wajidcodes/GenAI-Chatbot-Development-Course) — learning journey and practical work from the GenAI and Chatbot Development Course.
-
-**Live portfolio:** [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app) — AI/ML, Computer Vision, AI Automation and Python Development services, with project showcases.
+| Stage | Detail |
+|---|---|
+| **BS Computer Science** | National University of Modern Languages (NUML), Faisalabad — Expected 2028, CGPA **3.85 / 4.00** |
+| **Research** | Brain tumor segmentation (NeuroScan AI), supervised by Ms. Saira Ishtiaq, using the BraTS 2021 dataset |
+| **Fieldwork, Team Lead** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
+| **Certification** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate, 2025 |
+| **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
+| **Certification** | Digital Marketing, DigiSkills, 2024 |
+| **Honour** | Prime Minister's Laptop Scheme Award, Government of Pakistan, 2025 — awarded for top academic merit |
+| **Competition** | International Computer Science Competition (ICSC) — Participant, global CS problem-solving |
 
 ---
 
-## GitHub Stats
+## At a Glance
+
+| | |
+|---|---|
+| **Public repositories** | 7, including this profile repository |
+| **Main areas** | AI/ML, Computer Vision, Python, Java, Databases |
+| **Featured work** | NeuroScan AI, PulmoScan AI, NovaFlow, iStore, Restaurant Management, Education Research, GenAI Chatbots |
+| **Live portfolio** | [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app) |
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wajidcodes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Wajid's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajidcodes&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidcodes&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlign=50&animation=fadeIn" width="100%" alt="Thanks for visiting" />
 
-  <a href="https://www.linkedin.com/in/wajid-ali-developer">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Chat-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://wajidali-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/View_My_Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+**Thanks for visiting — let's build something practical.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Chat-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wajid-ali-developer)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF9800?style=for-the-badge&logo=vercel&logoColor=white)](https://wajidali-portfolio.vercel.app)
+
 </div>
