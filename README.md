@@ -158,7 +158,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 | **Live portfolio** | [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app) |
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidcodes&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wajidcodes&theme=tokyonight&hide_border=false&v=2" alt="GitHub streak" />
 </div>
 
 
