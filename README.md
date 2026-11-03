@@ -145,7 +145,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 | **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
 | **Certification** | Digital Marketing, DigiSkills, 2024 |
 | **Honour** | Prime Minister's Laptop Scheme Award, Government of Pakistan, 2025 — awarded for top academic merit |
-| **Competition** | International Computer Science Competition (ICSC) — Participant, global CS problem-solving |
+| **Competition** | International Computer Science Competition (ICSC) — Participant, 2026, global CS problem-solving |
 
 ---
 
