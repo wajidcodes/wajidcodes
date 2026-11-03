@@ -143,7 +143,6 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 | **Fieldwork, Team Lead** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
 | **Certification** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate, 2025 |
 | **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
-| **Certification** | Digital Marketing, DigiSkills, 2024 |
 | **Honour** | Prime Minister's Laptop Scheme Award, Government of Pakistan, 2025 — awarded for top academic merit |
 | **Competition** | International Computer Science Competition (ICSC) — Participant, 2026, global CS problem-solving |
 
