@@ -35,7 +35,7 @@ wajid = {
 }
 ```
 
-Computer Science student building practical AI systems — from research to working software: medical image segmentation and classification, full-stack desktop systems with real databases, and automation that saves people repetitive work.
+Computer Science student building practical AI systems — from research to working software: medical image segmentation and classification, full-stack desktop systems with real databases, and automation that saves people repetitive work. I also work on RAG pipelines for medical information retrieval across NeuroScan AI and PulmoScan AI.
 
 > "Translating complex requirements into robust, scalable software solutions."
 
