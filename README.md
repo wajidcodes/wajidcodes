@@ -77,7 +77,7 @@ Field analysis of Pakistan's education framework: infrastructural deficits, gend
 
 ### NovaFlow — Company Management System
 
-[![NovaFlow login screenshot](https://images.weserv.nl/?url=raw.githubusercontent.com%2Fwajidcodes%2FNovaFlow-Company-Management-System-Python-MySQL-%2F0684e6b03875ebfd55500d5b9062963d741f1ebe%2FImages%2Fnovaflow_login.png&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-)
+[![NovaFlow login screenshot](https://raw.githubusercontent.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-/master/Images/novaflow_login_screenshot.png)](https://github.com/wajidcodes/NovaFlow-Company-Management-System-Python-MySQL-)
 
 Python ERP for employee, inventory and project management. MySQL 3NF database, secure authentication, multi-warehouse support, work logs and role-based permissions, with a dark-themed Tkinter GUI.
 
