@@ -73,7 +73,7 @@ ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacit
 
 [![Education System of Pakistan cover](https://images.weserv.nl/?url=wajidali-portfolio.vercel.app%2Fportfolio%2Flg%2Feducation-pakistan-cover.jpg&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms)
 
-Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews with professors, heads of department and students, ending in structural policy reforms grounded in community engagement and equity. Team-lead fieldwork at NUML.
+Field analysis of Pakistan's education framework: infrastructural deficits, gender disparities and curriculum updates, from primary datasets and interviews with professors, heads of department and students, ending in structural policy reforms grounded in community engagement and equity. Fieldwork at NUML.
 
 ### NovaFlow — Company Management System
 
@@ -140,7 +140,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 |---|---|
 | **BS Computer Science** | National University of Modern Languages (NUML), Faisalabad — Expected 2028, CGPA **3.85 / 4.00** |
 | **Research** | Brain tumor segmentation (NeuroScan AI), supervised by Ms. Saira Ishtiaq, using the BraTS 2021 dataset |
-| **Fieldwork, Team Lead** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
+| **Fieldwork** | Civic engagement and academic assessment fieldwork — studying Pakistan's education system through Google Forms and interviews with professors, heads of department, and students |
 | **Certification** | Oracle Cloud Infrastructure (OCI) AI Foundations Associate, 2025 |
 | **Certification** | Solutions Architecture Job Simulation, Forage, 2025 |
 | **Certification** | SkillQuest — Generative AI Literacy, Simplilearn SkillUp, November 2026 — score 24/25 (96%) |
