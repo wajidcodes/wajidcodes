@@ -69,6 +69,14 @@ ResNet-18 chest X-ray classification in 4 classes (COVID-19, Normal, Lung Opacit
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
+### KidneyScan AI — Kidney Tumor Segmentation
+
+Kidney, tumor and cyst segmentation on KiTS23 (599 cases) — 3D U-Net model with a live web demo and 3D viewer. Research use only, not medical diagnosis.
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[View repository](https://github.com/Stochastic-Research-Labs/KidneyScan-AI) · [Try the live demo](https://kidneyscan-ai.vercel.app)
+
 ### Education System of Pakistan — Fieldwork &amp; Research
 
 [![Education System of Pakistan cover](https://images.weserv.nl/?url=wajidali-portfolio.vercel.app%2Fportfolio%2Flg%2Feducation-pakistan-cover.jpg&w=1200&h=480&fit=cover)](https://github.com/wajidcodes/Education-System-of-Pakistan-Challenges-Inclusivity-and-Reforms)
@@ -155,7 +163,7 @@ Learning journey and practical work from the GenAI and Chatbot Development Cours
 |---|---|
 | **Public repositories** | 7, including this profile repository |
 | **Main areas** | AI/ML, Computer Vision, Python, Java, Databases |
-| **Featured work** | NeuroScan AI, PulmoScan AI, NovaFlow, iStore, Restaurant Management, Education Research, GenAI Chatbots |
+| **Featured work** | NeuroScan AI, PulmoScan AI, KidneyScan AI, NovaFlow, iStore, Restaurant Management, Education Research, GenAI Chatbots |
 | **Live portfolio** | [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app) |
 
 <div align="center">
